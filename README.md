@@ -9,7 +9,7 @@ A Python Programming Project to implement the card game of BlackJack between a d
 4) Real World Scenario Simulation
 <hr>
 
-#### BlackJack Card Game:
+## BlackJack Card Game:
 <p>Blackjack is a popular casino card game that combines strategy and luck. The goal is to have a hand value as close to 21 as possible, without exceeding it, while also beating the dealer's hand.
 
 <b>Basic Rules</b><br>
@@ -60,7 +60,7 @@ Before the cards are dealt, each player places a bet.
 Players win or lose based on their hand versus the dealer’s.
 </p>
 
-Outputs:
+## Outputs:
 
 
 
