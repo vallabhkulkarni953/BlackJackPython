@@ -64,16 +64,21 @@ Players win or lose based on their hand versus the dealer’s.
 1) Placing the Bet: 
 ![output1](https://github.com/user-attachments/assets/e41e0c65-9795-44e9-a4d5-09434cb0e774)
 
+
 2) Inital Cards and Prompting User if He Wants to Hit or Stand :
 ![output2](https://github.com/user-attachments/assets/309e5cfb-5009-483d-98fa-f66d4ec4dbe5)
+
 
 3) The Dealer Wins as Player Stands with Lower Value:
    ![output3](https://github.com/user-attachments/assets/eaaccce6-b3b5-4b0a-9b8a-cbb661088ca6)
 
+
 4) Another Hand if Game is On : 
 ![output4](https://github.com/user-attachments/assets/97508f11-1cc0-418a-bf3f-6a6c5973df77)
 
+
 5) The Player Wins as the Dealer Busts due to exceeding value greater than 21 :
 ![output5](https://github.com/user-attachments/assets/077eab60-2a32-4065-82b4-ec2802b6f01c)
+
 
 ## Thanks for Visiting This Project !!! Please do check out other projects too !!
